@@ -130,4 +130,4 @@
 		return me
 	};
 
-}(jQuery))
+}(jQuery));
